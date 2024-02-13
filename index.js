@@ -55,3 +55,38 @@
 //   console.log(shopping);
 // }
 // shop();
+//=================================================================================
+//problem3
+// function talabalar() {
+//   var oquvchilar = {
+//     talaba_one: {
+//       name: "Umar",
+//       age: 20,
+//       kursi: 2,
+//     },
+//     talaba_two: {
+//       name: "Fozil",
+//       age: 20,
+//       kursi: 2,
+//     },
+//     talaba_three: {
+//       name: "Fotih",
+//       age: 25,
+//       kursi: 4,
+//     },
+//   };
+//   Object.freeze(oquvchilar);
+//   //create
+//   oquvchilar.talaba_four = {
+//     name: "Muso",
+//     age: 18,
+//     kursi: 1,
+//   };
+
+//   //delete
+//   delete oquvchilar.talaba_two;
+
+//   console.log(oquvchilar);
+// }
+// talabalar();
+//===========================================================================
