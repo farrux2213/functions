@@ -169,3 +169,8 @@ console.log("problem 6 ni ohrida tushinmochilik bor");
 console.log("problem 6 ni ohrida tushinmochilik bor");
 console.log("problem 6 ni ohrida tushinmochilik bor");
 console.log("problem 6 ni ohrida tushinmochilik bor");
+console.log("problem 6 ni ohrida tushinmochilik bor");
+console.log("problem 6 ni ohrida tushinmochilik bor");
+console.log("problem 6 ni ohrida tushinmochilik bor");
+console.log("problem 6 ni ohrida tushinmochilik bor");
+console.log("problem 6 ni ohrida tushinmochilik bor");
