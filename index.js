@@ -158,19 +158,4 @@
 // console.log(ochirilganKitoblar());
 
 // console.log(kutubxona);
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
-console.log("problem 6 ni ohrida tushinmochilik bor");
+console.log("6 erron one");
