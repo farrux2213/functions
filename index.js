@@ -90,3 +90,16 @@
 // }
 // talabalar();
 //===========================================================================
+//problem4
+// function shaxsMalumoti(ism, yosh, jins) {
+//   var shaxs = {
+//     ism: ism,
+//     yosh: yosh,
+//     jins: jins,
+//   };
+//   return shaxs;
+// }
+
+// var shaxs1 = shaxsMalumoti("Farrukh", 18, "erkak");
+// console.log(shaxs1);
+//=============================================================================
