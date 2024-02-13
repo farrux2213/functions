@@ -128,3 +128,33 @@
 
 // console.log(bank);
 //======================================================================================
+// problem6
+// let kutubxona = {
+//   kitob1: "Abu Ali Ibn Sinoning Shifo nomli Kitobi",
+//   kitob2: "Dunyoviy Qarashlar kitobi",
+//   kitob3: "Al-Xorazmiy Hisobot Kitobi",
+//   kitob4: "Farobiyning kitobi",
+// };
+
+// function ochirilganKitoblar() {
+//   //kitob qoshish
+//   kutubxona.kitob5 = "Super Matematika";
+
+//   //delete
+//   delete kutubxona.kitob1;
+//   delete kutubxona.kitob2;
+
+//   // O'chirilgan kitoblarni alohida obyektga joylash
+//   let ochirilganKitoblar = {
+//     kitob1: kutubxona.kitob1,
+//     kitob2: kutubxona.kitob2,
+//   };
+
+//   // O'zini obyektga qaytarish
+//   return ochirilganKitoblar;
+// }
+
+// // Natijani konsolga chiqaramiz
+// console.log(ochirilganKitoblar());
+
+// console.log(kutubxona);
