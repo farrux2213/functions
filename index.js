@@ -103,3 +103,28 @@
 // var shaxs1 = shaxsMalumoti("Farrukh", 18, "erkak");
 // console.log(shaxs1);
 //=============================================================================
+//problem5
+// var bank = {
+//   8888: {
+//     balans: 20.0,
+//   },
+//   9999: {
+//     balans: 30.0,
+//   },
+// };
+
+// function pulYechish(one, two, three) {
+//   if (bank[three]) {
+//     if (one === "minusMoney") {
+//       bank[three].balans -= two;
+//     } else {
+//       bank[three].balans += two;
+//     }
+//   } else {
+//     console.log("Bunday hisob raqam yoq!");
+//   }
+// }
+// pulYechish("minusMoney", 7.0, 8888);
+
+// console.log(bank);
+//======================================================================================
