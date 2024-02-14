@@ -174,3 +174,7 @@ console.log(Math.sqrt(9137019471));
 console.log(Math.sqrt(9137019471));
 console.log(Math.sqrt(9137019471));
 console.log(Math.sqrt(9137019471));
+console.log("6 erron one");
+console.log(Math.sqrt(9137019471));
+console.log(Math.sqrt(9137019471));
+console.log(Math.sqrt(9137019471));
