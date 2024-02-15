@@ -28,33 +28,6 @@
 // wild_animals();
 //================================================================================
 //problem2
-// function shop() {
-//   var shopping = {
-//     apple: {
-//       dona: 20,
-//       narxi: 700,
-//     },
-//     orange: {
-//       dona: 10,
-//       narxi: 1300,
-//     },
-//     watermelon: {
-//       dona: 2,
-//       narxi: 15000,
-//     },
-//   };
-//   //create
-//   shopping.pear = {
-//     dona: 7,
-//     narxi: 5000,
-//   };
-//   //delete
-//   delete shopping.orange;
-//   //calculation
-//   // ???????????????????????????????????????????????????????????????
-//   console.log(shopping);
-// }
-// shop();
 //=================================================================================
 //problem3
 // function talabalar() {
@@ -158,3 +131,11 @@
 // console.log(ochirilganKitoblar());
 
 // console.log(kutubxona);
+
+var lost = {
+  key1: "value1",
+  key2: "value2",
+};
+
+console.log(Object.keys(lost));
+console.log(Object.values(lost));
