@@ -141,3 +141,4 @@ lost.key3 = "value3";
 
 console.log(Object.keys(lost));
 console.log(Object.values(lost));
+console.log(Object.entries(lost));
