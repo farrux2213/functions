@@ -137,5 +137,7 @@ var lost = {
   key2: "value2",
 };
 
+lost.key3 = "value3";
+
 console.log(Object.keys(lost));
 console.log(Object.values(lost));
