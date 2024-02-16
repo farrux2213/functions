@@ -145,3 +145,5 @@ console.log(Object.values(lost));
 console.log(Object.values(lost));
 console.log(Object.entries(lost));
 console.log(Object.entries(lost));
+console.log(Object.entries(lost));
+console.log(Object.entries(lost));
