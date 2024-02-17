@@ -131,10 +131,3 @@
 // console.log(ochirilganKitoblar());
 
 // console.log(kutubxona);
-
-var lost = {
-  key1: "value1",
-  key2: "value2",
-};
-
-lost.key3 = "value3";
