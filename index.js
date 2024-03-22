@@ -26,9 +26,70 @@
 // };
 
 // wild_animals();
-//================================================================================
+
 //problem2
-//=================================================================================
+// class Item {
+//     constructor(name, price) {
+//         this.name = name;
+//         this.price = price;
+//     }
+// }
+
+// class ShoppingCart {
+//     constructor() {
+//         this.items = [];
+//     }
+
+//     addItem(item, quantity = 1) {
+//         for (let i = 0; i < quantity; i++) {
+//             this.items.push(item);
+//         }
+//     }
+
+//     removeItem(item, quantity = 1) {
+//         for (let i = 0; i < quantity; i++) {
+//             const index = this.items.findIndex(cartItem => cartItem === item);
+//             if (index !== -1) {
+//                 this.items.splice(index, 1);
+//             } else {
+//                 console.log(`${item.name} not found in the cart.`);
+//             }
+//         }
+//     }
+
+//     calculateTotal() {
+//         let total = 0;
+//         this.items.forEach(item => {
+//             total += item.price;
+//         });
+//         return total;
+//     }
+// }
+
+// // Sample usage
+// const item1 = new Item("Shirt", 20);
+// const item2 = new Item("Pants", 30);
+
+// const cart = new ShoppingCart();
+
+// cart.addItem(item1);
+// cart.addItem(item2, 2);
+
+// console.log("Items in the cart:");
+// cart.items.forEach(item => {
+//     console.log(`${item.name}: $${item.price}`);
+// });
+
+// console.log("Total cost:", cart.calculateTotal());
+
+// cart.removeItem(item1);
+// console.log("\nAfter removing an item:");
+// cart.items.forEach(item => {
+//     console.log(`${item.name}: $${item.price}`);
+// });
+
+// console.log("Total cost:", cart.calculateTotal());
+
 //problem3
 // function talabalar() {
 //   var oquvchilar = {
