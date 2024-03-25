@@ -192,4 +192,4 @@
 // console.log(ochirilganKitoblar());
 
 // console.log(kutubxona);
-console.log("salom");
+// console.log("salom");
